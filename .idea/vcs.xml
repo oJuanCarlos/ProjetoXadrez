@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/PadroesDeProjeto" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ProjetoXadrez" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Reference-Huffman-coding" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/atv-2-5-factory-oJuanCarlos" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/atv-2-6-abstractfactory-oJuanCarlos" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/atv-2-7-template-oJuanCarlos" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/aulas-aps-2021.2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/huffman-client-server" vcs="Git" />
+  </component>
+</project>

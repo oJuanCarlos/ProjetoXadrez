@@ -1,0 +1,7 @@
+1- classe posição;
+2- Classes Peca e Tabuleiro;
+3- Camada Xadrez e impressão do tabuleiro;
+4- Colocar peças no tabuleiro;
+5- Programação defensiva;
+6- Classe XadrezPosicao
+7- Melhoria na impressão (utilização das posições de (a -> h) e (1-8) para conduzir as peças)
